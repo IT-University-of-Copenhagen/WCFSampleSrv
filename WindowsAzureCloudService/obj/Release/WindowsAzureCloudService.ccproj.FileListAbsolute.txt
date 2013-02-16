@@ -1,0 +1,10 @@
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudService\WindowsAzureCloudService\bin\Release\ServiceConfiguration.cscfg
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudService\WindowsAzureCloudService\bin\Release\ServiceDefinition.csdef
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudService\WindowsAzureCloudService\bin\Release\ValidationIssues.xml
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudService\WindowsAzureCloudService\obj\Release\WCFServiceWebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudService\WindowsAzureCloudService\obj\Release\WCFServiceWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudService\WindowsAzureCloudService\obj\Release\WCFServiceWebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudService\WindowsAzureCloudService\obj\Release\WCFServiceWebRole\bin\WCFServiceWebRole.dll
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudService\WindowsAzureCloudService\obj\Release\WCFServiceWebRole\packages.config
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudService\WindowsAzureCloudService\obj\Release\WCFServiceWebRole\Service.svc
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudService\WindowsAzureCloudService\obj\Release\WCFServiceWebRole\Web.config

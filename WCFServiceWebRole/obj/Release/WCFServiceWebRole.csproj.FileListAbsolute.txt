@@ -1,0 +1,9 @@
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudService\WCFServiceWebRole\bin\WCFServiceWebRole.dll
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudService\WCFServiceWebRole\bin\WCFServiceWebRole.pdb
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudService\WCFServiceWebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudService\WCFServiceWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudService\WCFServiceWebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudService\WCFServiceWebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudService\WCFServiceWebRole\obj\Release\WCFServiceWebRole.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudService\WCFServiceWebRole\obj\Release\WCFServiceWebRole.dll
+C:\Users\Administrator\My Study\!ITU Courses\2013 IV Cloud Computing\Code\WindowsAzureCloudService\WCFServiceWebRole\obj\Release\WCFServiceWebRole.pdb
